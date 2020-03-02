@@ -1,5 +1,5 @@
 # Introduction:
-What causes employees to leave?
+To analyze Empployye attrition dataset and determine what causes the employees to leave.
 
 # Purpose:
 The purpose of this project is to perform Data Analysis on 'Employee Attrition' dataset and compute the probability of attrition using various algorithms. The results thus obtained will be used to understand what changes the company should make to their workplace, in order to get most of their employees to stay.
