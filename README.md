@@ -1,4 +1,3 @@
-# Enigma
 # Introduction:
 What causes employees to leave?
 
@@ -11,25 +10,25 @@ This dataset contains information about 4000 employees of a company. Description
 # Dataset details:
   There are 5 datasets from which the data was extracted to perform analysis.
   
-#  1. Employee survey data: The file contains survey data.  
+  1. Employee survey data: The file contains survey data.  
   Columns:
   EmployeeIDEmployee - number/id
   EnvironmentSatisfactionWork - Environment Satisfaction Level
   JobSatisfaction - Job Involvement Level
   WorkLifeBalanceWork  - work and life balance level
   
-#  2. In_time: This file contains in time details of the employees
+  2. In_time: This file contains in time details of the employees
 
-# 3. Out_time: This file contains out time details of the employees
+ 3. Out_time: This file contains out time details of the employees
 
-# 4. Manager survey details: This file contains employees feedback survey about their managers
+ 4. Manager survey details: This file contains employees feedback survey about their managers
   Columns:
   EmployeeID
   JobInvolvement
   PerformanceRating 
   
   
-#  5. General data: This file contain general data about employees
+  5. General data: This file contain general data about employees
   Columns: 
   Age
   Attrition
